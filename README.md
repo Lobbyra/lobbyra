@@ -20,7 +20,7 @@
 
 🌱 I'm passionate about IT and I'm eager to to learn about it !
 
-🤔 I want to learn how to be a professional dev. A good one.
+📘 I want to learn how to be a professional dev. A good one.
 
 💬 Feel free to contact me. All links are in my Github bio.
 
