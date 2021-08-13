@@ -10,4 +10,4 @@
 
 💬 Feel free to contact me. All links are in my Github bio.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lobbyra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lobbyra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
