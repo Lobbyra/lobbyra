@@ -18,7 +18,7 @@
 
 🙋‍♂️ My name is Jeremy Caudal and I'm studying IT [@42Paris](42.fr).
 
-🌱 I'm passionate about IT and I'm eager to to learn about it !
+🌱 I'm passionate about IT and I'm eager to learn about it !
 
 📘 I want to learn how to be a professional dev. A good one.
 
