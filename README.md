@@ -22,8 +22,6 @@
 
 🤔 I want to learn how to be a professional dev. A good one.
 
-📹 I have a Youtube [channel](https://www.youtube.com/channel/UCI1vTJzZ84_x6VM2wh7A3kA/videos) on which several videos about 42 projects are available.
-
 💬 Feel free to contact me. All links are in my Github bio.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lobbyra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
