@@ -1,4 +1,13 @@
 ### 👋  Hello !
+
+🙋‍♂️ My name is Jeremy Caudal and I'm studying IT [@42Paris](42.fr).
+
+🌱 I'm passionate about IT and I'm eager to learn about it !
+
+📘 I want to learn how to be a professional dev. A good one.
+
+💬 Feel free to contact me. All links are in my Github bio.
+
 <p float="left">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30px" height="30px" /> 
   <img src="https://ublu.fr/wp-content/uploads/2018/04/Logo-42.png" width="30px" height="30px" /> 
@@ -15,12 +24,3 @@
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/raspberry_pi_icon_130847.png" width="30px" height="30px"> 
   <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" width="30px" height="30px">
 </p>
-
-🙋‍♂️ My name is Jeremy Caudal and I'm studying IT [@42Paris](42.fr).
-
-🌱 I'm passionate about IT and I'm eager to learn about it !
-
-📘 I want to learn how to be a professional dev. A good one.
-
-💬 Feel free to contact me. All links are in my Github bio.
-
