@@ -8,6 +8,8 @@
 
 💬 Feel free to contact me. All links are in my Github bio.
 
+![Lobbyra's GitHub stats](https://github-readme-stats.vercel.app/api?username=lobbyra&show_icons=true&theme=dark)
+
 <p float="left">
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="30px" height="30px" /> 
   <img src="https://ublu.fr/wp-content/uploads/2018/04/Logo-42.png" width="30px" height="30px" /> 
