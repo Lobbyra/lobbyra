@@ -24,5 +24,3 @@
 
 💬 Feel free to contact me. All links are in my Github bio.
 
-</br>
-![](https://komarev.com/ghpvc/?username=lobbyra&color=blue&style=flat&label=Profile+visits)
