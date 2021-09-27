@@ -24,6 +24,5 @@
 
 💬 Feel free to contact me. All links are in my Github bio.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lobbyra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 ![](https://komarev.com/ghpvc/?username=lobbyra&color=blue&style=flat&label=Profile+visits)
