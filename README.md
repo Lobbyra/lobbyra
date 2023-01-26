@@ -8,6 +8,16 @@
 
 💬 Feel free to contact me. All links are in my Github bio.
 
+To-do @ list 42 :
+- snow-crash
+- boot2root
+- rainfall
+- overide
+- darkly
+- inceptions-of-things
+- ft_turing
+- H42N42
+
 ![Lobbyra's GitHub stats](https://github-readme-stats.vercel.app/api?username=lobbyra&show_icons=true&theme=dark)
 
 <p float="left">
