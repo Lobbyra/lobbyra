@@ -11,8 +11,8 @@
 Actuellement en alternance sur le calendrier 3S1S 2023, n'hésitez pas à me contacter si vous voulez travailler ensemble à l'école !
 
 To-do @ list 42 :
-- snow-crash
-- boot2root
+- snow-crash ✅
+- boot2root ✅
 - rainfall
 - overide
 - darkly
