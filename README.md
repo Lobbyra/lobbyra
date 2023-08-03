@@ -13,10 +13,10 @@ Actuellement en alternance sur le calendrier 3S1S 2023, n'hésitez pas à me con
 To-do @ list 42 :
 - snow-crash ✅
 - boot2root ✅
-- rainfall
-- overide
-- darkly
-- inceptions-of-things
+- rainfall ✅
+- overide ✅
+- darkly ✅
+- inceptions-of-things ✅
 - ft_turing
 - H42N42
 
