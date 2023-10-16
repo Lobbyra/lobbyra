@@ -17,8 +17,9 @@ To-do @ list 42 :
 - overide ✅
 - darkly ✅
 - inceptions-of-things ✅
+- avaj_launch ✅
 - ft_turing
-- H42N42
+- ft_ality
 
 ![Lobbyra's GitHub stats](https://github-readme-stats.vercel.app/api?username=lobbyra&show_icons=true&theme=dark)
 
